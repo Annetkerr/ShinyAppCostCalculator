@@ -2,7 +2,9 @@ ShinyAppCostCalculator
 
 
 Author: Anne Kerr
+
 Class: Developing Data Products
+
 Assignment 1
 
 This application calculates the estimated costs of two methods of implementing a specific software
