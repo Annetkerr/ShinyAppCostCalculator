@@ -53,8 +53,8 @@ shinyUI(fluidPage(
     # Show a table summarizing the values entered
     mainPanel(
       h5("What is this all going to cost the main office annually?"),
-      tableOutput("values"),
-      h5("What is this going to cost the main office in one-time fees?")
+      tableOutput("values")
+#       h5("What is this going to cost the main office in one-time fees?")
     )
   )
 ))
